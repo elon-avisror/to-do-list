@@ -1,0 +1,20 @@
+{
+  "name": "tdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elon-avisror/tdl.git"
+  },
+  "author": "Elon Avisror",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elon-avisror/tdl/issues"
+  },
+  "homepage": "https://github.com/elon-avisror/tdl#readme"
+}
